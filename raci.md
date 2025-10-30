@@ -54,6 +54,8 @@ Points d'attention
 • IAM/Sécu est le point central pour les aspects fonctionnels et configuration
 • Support doit avoir des escalades claires vers IAM/Sécu et Platform/DevOps
 • Architecte Sécurité valide tous les aspects sécurité et conformité
-PO IAM arbitre les priorités et prend les décisions stratégiques<img width="837" height="575" alt="image" src="https://github.com/user-attachments/assets/d19de74c-a0f3-4d60-a142-da8f2f373563" />
+PO IAM arbitre les priorités et prend les décisions stratégiques
+
+
 
 
