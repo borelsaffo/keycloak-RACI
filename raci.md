@@ -10,7 +10,7 @@ Légende
 
 I (Informed) : Informé des décisions/avancement
 
-<img width="483" height="152" alt="image" src="https://github.com/user-attachments/assets/55f19a6f-6160-47a0-a315-c5c5898fea5f" />
+
 
 <img width="711" height="259" alt="image" src="https://github.com/user-attachments/assets/8d6a89de-f6e5-4008-b396-a8db8a73bdf9" />
 
