@@ -1,8 +1,13 @@
 #
+
 Légende
+
 • R (Responsible) : Réalise l'activité
+
 • A (Accountable) : Responsable final/Décideur
+
 • C (Consulted) : Consulté pour avis
+
 I (Informed) : Informé des décisions/avancement
 
 <img width="483" height="152" alt="image" src="https://github.com/user-attachments/assets/55f19a6f-6160-47a0-a315-c5c5898fea5f" />
