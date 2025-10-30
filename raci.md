@@ -33,5 +33,27 @@ I (Informed) : Informé des décisions/avancement
 
 <img width="634" height="493" alt="image" src="https://github.com/user-attachments/assets/50916c30-a775-4ffe-aa93-c7cf12234421" />
 
+Recommandations d'organisation
+
+Comités & Rituels
+
+1. Comité de pilotage IAM (mensuel)
+• A: PO IAM, Architecte Sécurité
+• Participants: Tous les leads d'équipe
+2. Revue technique (bi-mensuelle)
+• Lead: Platform/DevOps
+• Participants: Infra Cloud, Dev Plugins, IAM/Sécu
+3. Comité changements (hebdomadaire)
+• Lead: Platform/DevOps
+• Participants: Toutes les équipes concernées par les changements
+4. Point support (quotidien)
+• Lead: Support/Provisioning
+• Participants: IAM/Sécu, Platform/DevOps (si escalade)
+Points d'attention
+• Infra Cloud et Platform/DevOps doivent collaborer étroitement sur l'infrastructure
+• IAM/Sécu est le point central pour les aspects fonctionnels et configuration
+• Support doit avoir des escalades claires vers IAM/Sécu et Platform/DevOps
+• Architecte Sécurité valide tous les aspects sécurité et conformité
+PO IAM arbitre les priorités et prend les décisions stratégiques<img width="837" height="575" alt="image" src="https://github.com/user-attachments/assets/d19de74c-a0f3-4d60-a142-da8f2f373563" />
 
 
